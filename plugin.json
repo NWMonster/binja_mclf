@@ -1,0 +1,12 @@
+{
+	"plugin": {
+		"name": "mclf loader",
+		"api": "python2",
+		"description": "load mclf image in binary ninja",
+		"license": {
+			"name": "MIT",
+		},
+		"version": "1.0 alpha",
+		"author": "NWMonster",
+	}
+}
